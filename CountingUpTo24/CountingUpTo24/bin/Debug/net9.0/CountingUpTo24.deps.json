@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CountingUpTo24/1.0.0": {
+        "runtime": {
+          "CountingUpTo24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountingUpTo24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

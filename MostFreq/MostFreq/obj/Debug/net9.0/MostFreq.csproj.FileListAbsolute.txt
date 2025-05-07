@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/bin/Debug/net9.0/MostFreq
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/bin/Debug/net9.0/MostFreq.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/bin/Debug/net9.0/MostFreq.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/bin/Debug/net9.0/MostFreq.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/bin/Debug/net9.0/MostFreq.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/MostFreq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/MostFreq.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/MostFreq.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/MostFreq.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/MostFreq.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/refint/MostFreq.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/MostFreq.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/MostFreq.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/MostFreq/MostFreq/obj/Debug/net9.0/ref/MostFreq.dll

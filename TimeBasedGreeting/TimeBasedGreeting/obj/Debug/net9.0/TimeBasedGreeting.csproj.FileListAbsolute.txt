@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/bin/Debug/net9.0/TimeBasedGreeting
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/bin/Debug/net9.0/TimeBasedGreeting.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/bin/Debug/net9.0/TimeBasedGreeting.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/bin/Debug/net9.0/TimeBasedGreeting.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/bin/Debug/net9.0/TimeBasedGreeting.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/TimeBasedGreeting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/TimeBasedGreeting.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/TimeBasedGreeting.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/TimeBasedGreeting.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/TimeBasedGreeting.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/refint/TimeBasedGreeting.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/TimeBasedGreeting.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/TimeBasedGreeting.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/TimeBasedGreeting/TimeBasedGreeting/obj/Debug/net9.0/ref/TimeBasedGreeting.dll

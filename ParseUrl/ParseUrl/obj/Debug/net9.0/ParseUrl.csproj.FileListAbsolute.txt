@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/bin/Debug/net9.0/ParseUrl
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/bin/Debug/net9.0/ParseUrl.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/bin/Debug/net9.0/ParseUrl.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/bin/Debug/net9.0/ParseUrl.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/bin/Debug/net9.0/ParseUrl.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/ParseUrl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/ParseUrl.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/ParseUrl.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/ParseUrl.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/ParseUrl.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/refint/ParseUrl.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/ParseUrl.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/ParseUrl.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ParseUrl/ParseUrl/obj/Debug/net9.0/ref/ParseUrl.dll

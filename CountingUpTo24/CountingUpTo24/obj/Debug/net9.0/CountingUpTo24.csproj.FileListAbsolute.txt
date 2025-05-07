@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/bin/Debug/net9.0/CountingUpTo24
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/bin/Debug/net9.0/CountingUpTo24.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/bin/Debug/net9.0/CountingUpTo24.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/bin/Debug/net9.0/CountingUpTo24.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/bin/Debug/net9.0/CountingUpTo24.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/CountingUpTo24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/CountingUpTo24.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/CountingUpTo24.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/CountingUpTo24.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/CountingUpTo24.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/refint/CountingUpTo24.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/CountingUpTo24.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/CountingUpTo24.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/CountingUpTo24/CountingUpTo24/obj/Debug/net9.0/ref/CountingUpTo24.dll

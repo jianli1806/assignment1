@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/bin/Debug/net9.0/DaysOldCalculator
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/bin/Debug/net9.0/DaysOldCalculator.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/bin/Debug/net9.0/DaysOldCalculator.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/bin/Debug/net9.0/DaysOldCalculator.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/bin/Debug/net9.0/DaysOldCalculator.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/DaysOldCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/DaysOldCalculator.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/DaysOldCalculator.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/DaysOldCalculator.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/DaysOldCalculator.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/refint/DaysOldCalculator.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/DaysOldCalculator.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/DaysOldCalculator.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/DaysOldCalculator/DaysOldCalculator/obj/Debug/net9.0/ref/DaysOldCalculator.dll

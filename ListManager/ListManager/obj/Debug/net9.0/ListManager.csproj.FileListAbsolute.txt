@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/bin/Debug/net9.0/ListManager
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/bin/Debug/net9.0/ListManager.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/bin/Debug/net9.0/ListManager.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/bin/Debug/net9.0/ListManager.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/bin/Debug/net9.0/ListManager.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/ListManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/ListManager.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/ListManager.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/ListManager.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/ListManager.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/refint/ListManager.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/ListManager.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/ListManager.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ListManager/ListManager/obj/Debug/net9.0/ref/ListManager.dll

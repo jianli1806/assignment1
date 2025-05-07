@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/refint/02UnderstandingTypes.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net9.0/ref/02UnderstandingTypes.dll

@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/bin/Debug/net9.0/Pyramid
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/bin/Debug/net9.0/Pyramid.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/bin/Debug/net9.0/Pyramid.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/bin/Debug/net9.0/Pyramid.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/bin/Debug/net9.0/Pyramid.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/Pyramid.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/Pyramid.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/Pyramid.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/Pyramid.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/refint/Pyramid.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/Pyramid.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/Pyramid.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Pyramid/Pyramid/obj/Debug/net9.0/ref/Pyramid.dll

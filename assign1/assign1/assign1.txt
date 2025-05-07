@@ -1,0 +1,32 @@
+1、
+A person’s telephone number: string
+A person’s height: double
+A person’s age: int
+A person’s gender: enum or string
+A person’s salary: decimal
+A book’s ISBN: string
+A book’s price: decimal
+A book’s shipping weight: double
+A country’s population: long
+The number of stars in the universe: ulong or BigInteger
+The number of employees: int
+
+2、
+Value type vs Reference type
+
+1. Value type wil directly hold the value while reference type will hold the memory address or reference of the value. 
+2. Value type will be stored in the stack memory while reference type will be stored in the heap memory. 
+3. Value type will not be collected by the garbage collector but the reference type will be collected by garbage collector. 
+4. The value type can be created by struct or enum but reference type can be created by class, interface, delegates or array. 
+5. Value type can not accept any null value while reference type can accept null values. 
+
+Boxing: an operation that converts a value type to the reference type(object type)
+Unboxing: an operation that converts a reference type(object type) to the value type
+
+3、
+Managed Resources: Automatically managed by the CLR, subject to garbage collection.
+Unmanaged Resources: Manually managed by the developer, requiring explicit release to avoid memory leaks.
+
+4、
+In essence, the Garbage Collector in .NET automates memory management, enhances application stability,
+and improves performance by efficiently reclaiming memory from objects that are no longer needed.

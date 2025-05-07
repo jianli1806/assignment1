@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/bin/Debug/net9.0/LongestSeq
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/bin/Debug/net9.0/LongestSeq.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/bin/Debug/net9.0/LongestSeq.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/bin/Debug/net9.0/LongestSeq.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/bin/Debug/net9.0/LongestSeq.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/LongestSeq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/LongestSeq.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/LongestSeq.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/LongestSeq.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/LongestSeq.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/refint/LongestSeq.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/LongestSeq.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/LongestSeq.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/LongestSeq/LongestSeq/obj/Debug/net9.0/ref/LongestSeq.dll

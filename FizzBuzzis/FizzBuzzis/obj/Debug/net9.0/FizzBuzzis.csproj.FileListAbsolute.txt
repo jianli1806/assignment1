@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/bin/Debug/net9.0/FizzBuzzis
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/bin/Debug/net9.0/FizzBuzzis.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/bin/Debug/net9.0/FizzBuzzis.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/bin/Debug/net9.0/FizzBuzzis.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/bin/Debug/net9.0/FizzBuzzis.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/FizzBuzzis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/FizzBuzzis.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/FizzBuzzis.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/FizzBuzzis.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/FizzBuzzis.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/refint/FizzBuzzis.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/FizzBuzzis.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/FizzBuzzis.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FizzBuzzis/FizzBuzzis/obj/Debug/net9.0/ref/FizzBuzzis.dll

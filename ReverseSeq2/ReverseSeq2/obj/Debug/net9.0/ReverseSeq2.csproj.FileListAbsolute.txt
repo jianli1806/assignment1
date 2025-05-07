@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/bin/Debug/net9.0/ReverseSeq2
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/bin/Debug/net9.0/ReverseSeq2.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/bin/Debug/net9.0/ReverseSeq2.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/bin/Debug/net9.0/ReverseSeq2.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/bin/Debug/net9.0/ReverseSeq2.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/ReverseSeq2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/ReverseSeq2.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/ReverseSeq2.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/ReverseSeq2.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/ReverseSeq2.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/refint/ReverseSeq2.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/ReverseSeq2.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/ReverseSeq2.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseSeq2/ReverseSeq2/obj/Debug/net9.0/ref/ReverseSeq2.dll

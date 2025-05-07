@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/bin/Debug/net9.0/ReverseStr
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/bin/Debug/net9.0/ReverseStr.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/bin/Debug/net9.0/ReverseStr.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/bin/Debug/net9.0/ReverseStr.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/bin/Debug/net9.0/ReverseStr.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/ReverseStr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/ReverseStr.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/ReverseStr.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/ReverseStr.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/ReverseStr.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/refint/ReverseStr.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/ReverseStr.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/ReverseStr.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/ReverseStr/ReverseStr/obj/Debug/net9.0/ref/ReverseStr.dll

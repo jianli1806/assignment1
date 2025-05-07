@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/bin/Debug/net9.0/Palindromes
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/bin/Debug/net9.0/Palindromes.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/bin/Debug/net9.0/Palindromes.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/bin/Debug/net9.0/Palindromes.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/bin/Debug/net9.0/Palindromes.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/Palindromes.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/Palindromes.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/Palindromes.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/Palindromes.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/refint/Palindromes.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/Palindromes.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/Palindromes.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Palindromes/Palindromes/obj/Debug/net9.0/ref/Palindromes.dll

@@ -1,0 +1,14 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/bin/Debug/net9.0/FindPrimesInRange
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/bin/Debug/net9.0/FindPrimesInRange.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/bin/Debug/net9.0/FindPrimesInRange.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/bin/Debug/net9.0/FindPrimesInRange.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/bin/Debug/net9.0/FindPrimesInRange.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/FindPrimesInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/FindPrimesInRange.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/FindPrimesInRange.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/FindPrimesInRange.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/FindPrimesInRange.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/refint/FindPrimesInRange.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/FindPrimesInRange.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/FindPrimesInRange.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/FindPrimesInRange/FindPrimesInRange/obj/Debug/net9.0/ref/FindPrimesInRange.dll
